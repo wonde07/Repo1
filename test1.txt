@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 3AD9-57C6
-
- Directory of C:\Users\Wonde\Desktop\MyProject
-
-07/22/2022  08:36 PM    <DIR>          .
-07/22/2022  08:36 PM    <DIR>          ..
-07/22/2022  08:36 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  558,051,467,264 bytes free
+chang1
